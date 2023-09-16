@@ -9,3 +9,5 @@ Challenge Bedimcode How To Make a Responsive NFT Website Design Using HTML CSS &
 •	Developed first with the Mobile First methodology, then for desktop.<br>
 •	Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+<img src="https://github.com/MoisesLhuz/NFT_Website/blob/main/assets/img/nft-website-image.jpg"/>
+
